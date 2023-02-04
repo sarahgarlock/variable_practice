@@ -11,4 +11,4 @@ hungrey = true
 sleepy = true
 sad = false
 
-puts 
+puts 1 + 2
